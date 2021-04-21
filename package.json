@@ -1,6 +1,12 @@
 {
   "name": "your-planning-backend",
   "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "license": "MIT"
+  "scripts": {},
+  "author": "Mateus Costa",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
