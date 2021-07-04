@@ -9,6 +9,7 @@
   "author": "Mateus Costa",
   "license": "MIT",
   "dependencies": {
+    "date-fns": "^2.22.1",
     "express": "^4.17.1",
     "mongoose": "^5.12.5"
   },
